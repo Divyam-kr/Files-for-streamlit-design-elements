@@ -1,2 +1,2 @@
 # Files-for-streamlit-design-elements
-there are materials for streamlit in rtuy
+there are materials for streamlit that we deployed
